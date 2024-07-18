@@ -1,4 +1,4 @@
-wget https://github.com/doktor83/SRBMiner-Multi/releases/download/2.3.9/SRBMiner-Multi-2-3-9-Linux.tar.xz
-tar xvf SRBMiner-Multi-2-3-9-Linux.tar.xz
-cd SRBMiner-Multi-2-3-9
-./SRBMiner-MULTI -a power2b -o stratum+tcp://power2b.asia.mine.zergpool.com:7445 -u MrgKouLNYQMR4NsUfqBsBdq3qrGz8b66xP --timeout 120 -p  c=MBC,mc=MBC,ID=pppp
+wget https://github.com/doktor83/SRBMiner-Multi/releases/download/2.5.9/SRBMiner-Multi-2-5-9-Linux.tar.gz
+tar xvf SRBMiner-Multi-2-5-9-Linux.tar.gz
+cd SRBMiner-Multi-2-5-9
+./SRBMiner-MULTI --algorithm yespower2b --pool stratum+tcp://stratum-mining-pool.zapto.org:3761 --wallet mbc1qtg3d9h6u8k37jvjnyh9tppam4c6pqy36s9n83x --password xxxx --cpu-threads 0 --disable-gpu 
